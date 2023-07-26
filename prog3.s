@@ -1,8 +1,5 @@
 #Name: Mahliet Admasu
-#login ID: madmasu
-#ID number: 119383582
-#I pledge on my honor that I have not given or recieved any unauthorized 
-#assistance on this assignment.
+
 
 
 # -*- mode: text -*-
